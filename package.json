@@ -1,5 +1,5 @@
 {
-  "name": "webpack-template",
+  "name": "homepage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thejas2246/webpack-template.git"
+    "url": "git+https://github.com/thejas2246/home-page.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thejas2246/webpack-template/issues"
+    "url": "https://github.com/thejas2246/home-page/issues"
   },
-  "homepage": "https://github.com/thejas2246/webpack-template#readme",
+  "homepage": "https://github.com/thejas2246/home-page#readme",
   "devDependencies": {
     "@eslint/js": "^9.31.0",
     "css-loader": "^7.1.2",
